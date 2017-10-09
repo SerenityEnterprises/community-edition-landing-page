@@ -5,6 +5,10 @@ body {
     font: 1.2em / 1.62 sans-serif;
 }
 
+p {
+    color: #333;
+}
+
 h1, h2, h3 {
     line-height:1.2;
 }
